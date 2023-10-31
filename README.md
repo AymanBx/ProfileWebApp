@@ -12,6 +12,15 @@
     </style>
     <img id="bannerImage" src="Aymangram.png" width="device-width" height="400">
 </head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXD7ZKYWV3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XXD7ZKYWV3');
+</script>
 
 <body>
 
